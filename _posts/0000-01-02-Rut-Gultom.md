@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Pemrograman Aplikasi Berbasis Web
+rut gultom
 Use the left arrow to go back!
